@@ -18,3 +18,4 @@ Write-Host
 Write-Host "HWID copied to clipboard! Paste it into Discord using " -ForegroundColor White -NoNewline
 Write-Host "Ctrl + V" -ForegroundColor Yellow
 Write-Host
+

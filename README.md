@@ -30,3 +30,4 @@ The API is publicly accessible. Example query:
 https://megabase.vercel.app/api/query?hash=3C7A9AC6DB0D246A90B1443EB840A377B28EB0CF
 
 If you would like to suggest mods to add to the megabase, reach out on discord: **hadroncollision**
+

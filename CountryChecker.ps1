@@ -27,3 +27,4 @@ $hwid = [Convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes("$motherboardId
 Write-Host "HWID: $hwid" -ForegroundColor Cyan
 
 Write-Host ""
+
